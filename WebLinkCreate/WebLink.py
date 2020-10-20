@@ -48,6 +48,7 @@ def search_links(urlmin, time, _urls):
     for i in urls:
         url = i
         browser = webdriver.Chrome("C:\\Users\\Timothy\\Documents\\GitHub\\webscraper2\\chromedriver.exe")
+        browser.find_element_by_tag_name("body").send_keys("Keys.ESCAPE");
         browser.get(url)
         browser.implicitly_wait(2)
         try:
