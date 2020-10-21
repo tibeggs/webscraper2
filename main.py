@@ -24,7 +24,8 @@ def run_scrapper():
     gmail_user = 'pyecono@gmail.com'
     gmail_password = 'Econo2020!'
     sent_from = gmail_user
-    to = ['tibeggs@gmail.com', 'tbeggs@econometricainc.com', 'cholleyman@econometricainc.com', 'iflores@econometricainc.com']
+    to = ['tibeggs@gmail.com', 'tbeggs@econometricainc.com', 'cholleyman@econometricainc.com',
+          'iflores@econometricainc.com']
     subject = 'WebScrape Result for test ' + str(full)
     body = emailbody
     email_text = """\
