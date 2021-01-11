@@ -6,7 +6,7 @@
 import WebLinkCreate as wbc
 from os import sys, path
 
-
+fasdfasdf==={{}{
 def run_scrapper():
     sys.path.append(path.dirname(path.dirname(path.abspath(__file__))))
     sys.path.append('C:\\Users\\Timothy\\Anaconda3\\lib\\site-packages\\IPython\\extensions')
