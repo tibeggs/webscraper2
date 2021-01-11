@@ -6,7 +6,6 @@
 import WebLinkCreate as wbc
 from os import sys, path
 
-fasdfasdf==={{}{
 def run_scrapper():
     sys.path.append(path.dirname(path.dirname(path.abspath(__file__))))
     sys.path.append('C:\\Users\\Timothy\\Anaconda3\\lib\\site-packages\\IPython\\extensions')
@@ -43,7 +42,6 @@ Subject: %s
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print("running webscraper 2")
-    ffff
     #run_scrapper()
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
