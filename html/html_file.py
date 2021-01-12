@@ -1,6 +1,5 @@
 """docstring"""
-from bs4 import BeautifulSoup
-f = open("index.html", "r")
-k = bool(BeautifulSoup(f.read(), 'lxml').find())
+import subprocess
 
-print(k)
+FILE = "index.html"
+subprocess.check_call(['html5validator', FILE])
