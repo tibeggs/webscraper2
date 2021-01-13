@@ -21,7 +21,7 @@ def run_scrapper():
     urls = wbc.UrlList(minUrl, selectionList, typesList, day_made)
     text, emailbody, count = wbc.search_links(minUrl, full, urls)
     gmail_user = 'pyecono@gmail.com'
-    gmail_password = 'Econo2020!'
+    gmail_password = open("password.secret", "r").read()
     sent_from = gmail_user
     to = ['tibeggs@gmail.com', 'tbeggs@econometricainc.com', 'cholleyman@econometricainc.com',
           'iflores@econometricainc.com']
