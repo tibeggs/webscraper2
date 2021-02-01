@@ -82,9 +82,9 @@ def search_links(urlmin, time, _urls):
 
 def mod_date():
     """get yesterday and current datetime"""
-    time = datetime.datetime.now()
+    time = datetime.datetime.now()-datetime.timedelta(1)
     year, month, day = str(datetime.datetime.date(time)).split("-")
-    yday = str(int(day) - 1)
+    yday = str(int(day))
     if len(yday) == 1:
         yday = "0" + yday
     dayUse = str(month) + str(yday) + str(year)
