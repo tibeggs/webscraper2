@@ -4001,3 +4001,123 @@ http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02002021&nigp
 http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02002021&nigpClass=96121&solStatus=1
 http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02002021&nigpClass=96128&solStatus=1
 NO Email
+Start Run on 2021-01-31 13:16:02.830459::
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&agencyName=7547&dateRange=custom&startDate=01312021&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&agencyName=8164&dateRange=custom&startDate=01312021&solStatus=1
+http://www.txsmartbuy.com/esbddetails/view/53700-7-0000168852
+1 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&agencyName=7877&dateRange=custom&startDate=01312021&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&agencyName=7857&dateRange=custom&startDate=01312021&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&agencyName=7957&dateRange=custom&startDate=01312021&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&agencyName=8247&dateRange=custom&startDate=01312021&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=01312021&nigpClass=91812&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=01312021&nigpClass=91821&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=01312021&nigpClass=91827&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=01312021&nigpClass=91849&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=01312021&nigpClass=91863&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=01312021&nigpClass=91875&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=01312021&nigpClass=91878&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=01312021&nigpClass=91892&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=01312021&nigpClass=91896&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=01312021&nigpClass=94677&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=01312021&nigpClass=96121&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=01312021&nigpClass=96128&solStatus=1
+URLs Searched: 
+http://www.txsmartbuy.com/esbd/filter=T&agencyName=7547&dateRange=custom&startDate=01312021&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&agencyName=8164&dateRange=custom&startDate=01312021&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&agencyName=7877&dateRange=custom&startDate=01312021&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&agencyName=7857&dateRange=custom&startDate=01312021&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&agencyName=7957&dateRange=custom&startDate=01312021&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&agencyName=8247&dateRange=custom&startDate=01312021&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=01312021&nigpClass=91812&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=01312021&nigpClass=91821&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=01312021&nigpClass=91827&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=01312021&nigpClass=91849&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=01312021&nigpClass=91863&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=01312021&nigpClass=91875&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=01312021&nigpClass=91878&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=01312021&nigpClass=91892&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=01312021&nigpClass=91896&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=01312021&nigpClass=94677&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=01312021&nigpClass=96121&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=01312021&nigpClass=96128&solStatus=1
+Email Sent
+Start Run on 2021-02-01 13:00:03.018325::
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&agencyName=7547&dateRange=custom&startDate=02012021&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&agencyName=8164&dateRange=custom&startDate=02012021&solStatus=1
+http://www.txsmartbuy.com/esbddetails/view/53700-7-0000168852
+1 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&agencyName=7877&dateRange=custom&startDate=02012021&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&agencyName=7857&dateRange=custom&startDate=02012021&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&agencyName=7957&dateRange=custom&startDate=02012021&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&agencyName=8247&dateRange=custom&startDate=02012021&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02012021&nigpClass=91812&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02012021&nigpClass=91821&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02012021&nigpClass=91827&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02012021&nigpClass=91849&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02012021&nigpClass=91863&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02012021&nigpClass=91875&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02012021&nigpClass=91878&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02012021&nigpClass=91892&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02012021&nigpClass=91896&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02012021&nigpClass=94677&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02012021&nigpClass=96121&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02012021&nigpClass=96128&solStatus=1
+URLs Searched: 
+http://www.txsmartbuy.com/esbd/filter=T&agencyName=7547&dateRange=custom&startDate=02012021&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&agencyName=8164&dateRange=custom&startDate=02012021&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&agencyName=7877&dateRange=custom&startDate=02012021&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&agencyName=7857&dateRange=custom&startDate=02012021&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&agencyName=7957&dateRange=custom&startDate=02012021&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&agencyName=8247&dateRange=custom&startDate=02012021&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02012021&nigpClass=91812&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02012021&nigpClass=91821&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02012021&nigpClass=91827&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02012021&nigpClass=91849&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02012021&nigpClass=91863&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02012021&nigpClass=91875&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02012021&nigpClass=91878&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02012021&nigpClass=91892&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02012021&nigpClass=91896&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02012021&nigpClass=94677&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02012021&nigpClass=96121&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02012021&nigpClass=96128&solStatus=1
+Email Sent
+Start Run on 2021-02-02 13:00:05.318558::
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&agencyName=7547&dateRange=custom&startDate=02022021&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&agencyName=8164&dateRange=custom&startDate=02022021&solStatus=1
+http://www.txsmartbuy.com/esbddetails/view/53700-7-0000168852
+1 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&agencyName=7877&dateRange=custom&startDate=02022021&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&agencyName=7857&dateRange=custom&startDate=02022021&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&agencyName=7957&dateRange=custom&startDate=02022021&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&agencyName=8247&dateRange=custom&startDate=02022021&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02022021&nigpClass=91812&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02022021&nigpClass=91821&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02022021&nigpClass=91827&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02022021&nigpClass=91849&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02022021&nigpClass=91863&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02022021&nigpClass=91875&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02022021&nigpClass=91878&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02022021&nigpClass=91892&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02022021&nigpClass=91896&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02022021&nigpClass=94677&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02022021&nigpClass=96121&solStatus=1
+0 Solicitations found for URL::http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02022021&nigpClass=96128&solStatus=1
+URLs Searched: 
+http://www.txsmartbuy.com/esbd/filter=T&agencyName=7547&dateRange=custom&startDate=02022021&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&agencyName=8164&dateRange=custom&startDate=02022021&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&agencyName=7877&dateRange=custom&startDate=02022021&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&agencyName=7857&dateRange=custom&startDate=02022021&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&agencyName=7957&dateRange=custom&startDate=02022021&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&agencyName=8247&dateRange=custom&startDate=02022021&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02022021&nigpClass=91812&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02022021&nigpClass=91821&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02022021&nigpClass=91827&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02022021&nigpClass=91849&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02022021&nigpClass=91863&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02022021&nigpClass=91875&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02022021&nigpClass=91878&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02022021&nigpClass=91892&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02022021&nigpClass=91896&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02022021&nigpClass=94677&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02022021&nigpClass=96121&solStatus=1
+http://www.txsmartbuy.com/esbd/filter=T&dateRange=custom&startDate=02022021&nigpClass=96128&solStatus=1
+Email Sent
