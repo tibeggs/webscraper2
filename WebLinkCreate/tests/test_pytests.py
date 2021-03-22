@@ -36,6 +36,7 @@ class TestUrls:
     def test_send_email(self):
         gmail_user = 'pyecono@gmail.com'
         gmail_password = open("password.secret", "r").read()
+
         sent_from = gmail_user
         to = ['tibeggs@gmail.com', 'tbeggs@econometricainc.com']
         subject = 'WebScrape Result for test:'
